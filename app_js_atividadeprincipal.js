@@ -1,6 +1,6 @@
 alert("Seja bem vindo ao jogo do milhão");
 
-let numeroSecreto = 29;
+let numeroSecreto = 100;
 let numeroInserido = prompt("Escolha um número entre 1 e 30");
 numeroInserido = Number(numeroInserido);
 console.log = numeroInserido
